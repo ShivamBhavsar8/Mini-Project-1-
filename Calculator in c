@@ -5,7 +5,7 @@ int main()
     char opt;     //opt variable define the operator symbols.
     int n1, n2;   //where n1 and n2 take two numeric values
     float res;    //res will store results
-    printf (" Select an operator (+, -, *, /) to perform an operation in C calculator \n ");  
+    printf (" Select an operator (+, -, *, /) to perform an operation  \n ");  
     scanf ("%c", &opt); // take an operator  
     printf (" Enter the first number: ");  
     scanf(" %d", &n1); // take fist number  
